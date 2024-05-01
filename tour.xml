@@ -1,5 +1,6 @@
 ﻿<krpano version="1.21" title="Virtual Tour">
 
+
 	<include url="skin/vtourskin.xml" />
 
 	<!-- customize skin settings: maps, gyro, webvr, thumbnails, tooltips, layout, design, ... -->
@@ -71,7 +72,7 @@
 	
 
 	
-	<scene name="scene_CD-1" title="CD-1" onstart="" thumburl="panos/CD-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_CD-1" title="CD-1" onstart="" thumburl="panos/CD-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -90,7 +91,7 @@
 
 	</scene>
 
-	<scene name="scene_CD-2" title="CD-2" onstart="" thumburl="panos/CD-2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_CD-2" title="CD-2" onstart="" thumburl="panos/CD-2.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -107,7 +108,7 @@
 
 	</scene>
 
-	<scene name="scene_CD-3" title="CD-3" onstart="" thumburl="panos/CD-3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_CD-3" title="CD-3" onstart="" thumburl="panos/CD-3.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -124,7 +125,7 @@
 
 	</scene>
 
-	<scene name="scene_CD-4" title="CD-4" onstart="" thumburl="panos/CD-4.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_CD-4" title="CD-4" onstart="" thumburl="panos/CD-4.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -140,7 +141,7 @@
 
 	</scene>
 
-	<scene name="scene_CI-1" title="CI-1" onstart="" thumburl="panos/CI-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_CI-1" title="CI-1" onstart="" thumburl="panos/CI-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -157,7 +158,7 @@
 
 	</scene>
 
-	<scene name="scene_CI-2" title="CI-2" onstart="" thumburl="panos/CI-2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_CI-2" title="CI-2" onstart="" thumburl="panos/CI-2.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -174,7 +175,7 @@
 
 	</scene>
 
-	<scene name="scene_CI-3" title="CI-3" onstart="" thumburl="panos/CI-3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_CI-3" title="CI-3" onstart="" thumburl="panos/CI-3.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -190,7 +191,7 @@
 
 	</scene>
 
-	<scene name="scene_CO-1" title="CO-1" onstart="" thumburl="panos/CO-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_CO-1" title="CO-1" onstart="" thumburl="panos/CO-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -206,7 +207,7 @@
 
 	</scene>
 
-	<scene name="scene_CR-1" title="CR-1" onstart="" thumburl="panos/CR-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_CR-1" title="CR-1" onstart="" thumburl="panos/CR-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -224,7 +225,7 @@
 
 	</scene>
 
-	<scene name="scene_CR-2" title="CR-2" onstart="" thumburl="panos/CR-2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_CR-2" title="CR-2" onstart="" thumburl="panos/CR-2.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -240,7 +241,7 @@
 
 	</scene>
 
-	<scene name="scene_CR-3" title="CR-3" onstart="" thumburl="panos/CR-3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_CR-3" title="CR-3" onstart="" thumburl="panos/CR-3.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -257,7 +258,7 @@
 
 	</scene>
 
-	<scene name="scene_CR-4" title="CR-4" onstart="" thumburl="panos/CR-4.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_CR-4" title="CR-4" onstart="" thumburl="panos/CR-4.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -273,7 +274,7 @@
 
 	</scene>
 
-	<scene name="scene_CR-5" title="CR-5" onstart="" thumburl="panos/CR-5.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_CR-5" title="CR-5" onstart="" thumburl="panos/CR-5.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -290,7 +291,7 @@
 
 	</scene>
 
-	<scene name="scene_CR-6" title="CR-6" onstart="" thumburl="panos/CR-6.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_CR-6" title="CR-6" onstart="" thumburl="panos/CR-6.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -307,7 +308,7 @@
 
 	</scene>
 
-	<scene name="scene_CR-7" title="CR-7" onstart="" thumburl="panos/CR-7.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_CR-7" title="CR-7" onstart="" thumburl="panos/CR-7.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -323,7 +324,7 @@
 
 	</scene>
 
-	<scene name="scene_CT-1" title="CT-1" onstart="" thumburl="panos/CT-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_CT-1" title="CT-1" onstart="" thumburl="panos/CT-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -341,7 +342,7 @@
 
 	</scene>
 
-	<scene name="scene_CT-2" title="CT-2" onstart="" thumburl="panos/CT-2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_CT-2" title="CT-2" onstart="" thumburl="panos/CT-2.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -359,7 +360,7 @@
 
 	</scene>
 
-	<scene name="scene_CT-3" title="CT-3" onstart="" thumburl="panos/CT-3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_CT-3" title="CT-3" onstart="" thumburl="panos/CT-3.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -375,7 +376,7 @@
 
 	</scene>
 
-	<scene name="scene_E-1" title="E-1" onstart="" thumburl="panos/E-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_E-1" title="E-1" onstart="" thumburl="panos/E-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -391,7 +392,7 @@
 
 	</scene>
 
-	<scene name="scene_E-2" title="E-2" onstart="" thumburl="panos/E-2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_E-2" title="E-2" onstart="" thumburl="panos/E-2.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -408,7 +409,7 @@
 
 	</scene>
 
-	<scene name="scene_E-3" title="E-3" onstart="" thumburl="panos/E-3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_E-3" title="E-3" onstart="" thumburl="panos/E-3.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -427,7 +428,7 @@
 
 	</scene>
 
-	<scene name="scene_E-4" title="E-4" onstart="" thumburl="panos/E-4.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_E-4" title="E-4" onstart="" thumburl="panos/E-4.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -444,7 +445,7 @@
 
 	</scene>
 
-	<scene name="scene_E-5" title="E-5" onstart="" thumburl="panos/E-5.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_E-5" title="E-5" onstart="" thumburl="panos/E-5.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -462,7 +463,7 @@
 
 	</scene>
 
-	<scene name="scene_ENT-1" title="ENT-1" onstart="" thumburl="panos/ENT-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_ENT-1" title="ENT-1" onstart="" thumburl="panos/ENT-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -478,7 +479,7 @@
 
 	</scene>
 
-	<scene name="scene_ENT-2" title="ENT-2" onstart="" thumburl="panos/ENT-2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_ENT-2" title="ENT-2" onstart="" thumburl="panos/ENT-2.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -495,7 +496,7 @@
 
 	</scene>
 
-	<scene name="scene_ENT-3" title="ENT-3" onstart="" thumburl="panos/ENT-3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_ENT-3" title="ENT-3" onstart="" thumburl="panos/ENT-3.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -512,7 +513,7 @@
 
 	</scene>
 
-	<scene name="scene_JB-1" title="JB-1" onstart="" thumburl="panos/JB-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_JB-1" title="JB-1" onstart="" thumburl="panos/JB-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -529,7 +530,7 @@
 
 	</scene>
 
-	<scene name="scene_JB-2" title="JB-2" onstart="" thumburl="panos/JB-2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_JB-2" title="JB-2" onstart="" thumburl="panos/JB-2.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -546,7 +547,7 @@
 
 	</scene>
 
-	<scene name="scene_JB-3" title="JB-3" onstart="" thumburl="panos/JB-3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_JB-3" title="JB-3" onstart="" thumburl="panos/JB-3.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -563,7 +564,7 @@
 
 	</scene>
 
-	<scene name="scene_JB-4" title="JB-4" onstart="" thumburl="panos/JB-4.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_JB-4" title="JB-4" onstart="" thumburl="panos/JB-4.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -579,7 +580,7 @@
 
 	</scene>
 
-	<scene name="scene_LD-1" title="LD-1" onstart="" thumburl="panos/LD-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_LD-1" title="LD-1" onstart="" thumburl="panos/LD-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -596,7 +597,7 @@
 
 	</scene>
 
-	<scene name="scene_LD-2" title="LD-2" onstart="" thumburl="panos/LD-2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_LD-2" title="LD-2" onstart="" thumburl="panos/LD-2.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -613,7 +614,7 @@
 
 	</scene>
 
-	<scene name="scene_LD-3" title="LD-3" onstart="" thumburl="panos/LD-3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_LD-3" title="LD-3" onstart="" thumburl="panos/LD-3.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -629,7 +630,7 @@
 
 	</scene>
 
-	<scene name="scene_LI-1" title="LI-1" onstart="" thumburl="panos/LI-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_LI-1" title="LI-1" onstart="" thumburl="panos/LI-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -646,7 +647,7 @@
 
 	</scene>
 
-	<scene name="scene_LI-2" title="LI-2" onstart="" thumburl="panos/LI-2.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_LI-2" title="LI-2" onstart="" thumburl="panos/LI-2.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -663,7 +664,7 @@
 
 	</scene>
 
-	<scene name="scene_LI-3" title="LI-3" onstart="" thumburl="panos/LI-3.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_LI-3" title="LI-3" onstart="" thumburl="panos/LI-3.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -680,7 +681,7 @@
 
 	</scene>
 
-	<scene name="scene_LI-4" title="LI-4" onstart="" thumburl="panos/LI-4.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_LI-4" title="LI-4" onstart="" thumburl="panos/LI-4.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -692,13 +693,13 @@
 			<cube url="panos/LI-4.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,768,1664" />
 		</image>
 
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="179.620" atv="13.422" linkedscene="scene_jb-1" linkedscene_lookat="1.59,-13.33,120.0" />
-		<hotspot name="spot3" style="skin_hotspotstyle" ath="135.536" atv="34.190" linkedscene="scene_jb-1" linkedscene_lookat="-5.74,-4.3,120.0" linkedscene_hoffset="180.0" use3dtransition="true" />
+		<hotspot name="spot1" style="skin_hotspotstyle" ath="179.620" atv="13.422" linkedscene="scene_jb-1" linkedscene_lookat="15.25,-10.64,120.0" />
+		
 		<hotspot name="spot2" style="skin_hotspotstyle" ath="-5.740" atv="13.598" linkedscene="scene_li-3" linkedscene_lookat="-2.07,-5.7,120.0" />
 
 	</scene>
 
-	<scene name="scene_P2-01" title="P2-01" onstart="" thumburl="panos/P2-01.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_P2-01" title="P2-01" onstart="" thumburl="panos/P2-01.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -712,7 +713,7 @@
 
 	</scene>
 
-	<scene name="scene_P2-03" title="P2-03" onstart="" thumburl="panos/P2-03.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_P2-03" title="P2-03" onstart="" thumburl="panos/P2-03.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -728,7 +729,7 @@
 
 	</scene>
 
-	<scene name="scene_P2-04" title="P2-04" onstart="" thumburl="panos/P2-04.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_P2-04" title="P2-04" onstart="" thumburl="panos/P2-04.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -746,7 +747,7 @@
 
 	</scene>
 
-	<scene name="scene_P2-05" title="P2-05" onstart="" thumburl="panos/P2-05.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_P2-05" title="P2-05" onstart="" thumburl="panos/P2-05.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -762,7 +763,7 @@
 
 	</scene>
 
-	<scene name="scene_P2-06" title="P2-06" onstart="" thumburl="panos/P2-06.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_P2-06" title="P2-06" onstart="" thumburl="panos/P2-06.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -779,7 +780,7 @@
 
 	</scene>
 
-	<scene name="scene_P2-07" title="P2-07" onstart="" thumburl="panos/P2-07.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_P2-07" title="P2-07" onstart="" thumburl="panos/P2-07.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -795,7 +796,7 @@
 
 	</scene>
 
-	<scene name="scene_PM-1" title="PM-1" onstart="" thumburl="panos/PM-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_PM-1" title="PM-1" onstart="" thumburl="panos/PM-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -812,7 +813,7 @@
 
 	</scene>
 
-	<scene name="scene_SC-1" title="SC-1" onstart="" thumburl="panos/SC-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="">
+	<scene name="scene_SC-1" title="SC-1" onstart="" thumburl="panos/SC-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
