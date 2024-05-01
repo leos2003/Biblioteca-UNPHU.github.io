@@ -70,7 +70,21 @@
 	<!-- <include url="skin/vtourskin_design_117round.xml"    /> -->
 	<!-- <include url="skin/vtourskin_design_black.xml"       /> -->
 	
+<scene name="scene_ENT-1" title="ENT-1" onstart="" thumburl="panos/ENT-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
+		
+		<control bouncinglimits="calc:image.cube ? true : false" />
 
+		<view hlookat="-184.671" vlookat="-2.948" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+
+		<preview url="panos/ENT-1.tiles/preview.jpg" />
+
+		<image prealign="0|0.0|0">
+			<cube url="panos/ENT-1.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,768,1664" />
+		</image>
+
+		<hotspot name="spot1" style="skin_hotspotstyle" ath="166.404" atv="14.012" linkedscene="scene_ent-2" linkedscene_lookat="194.58,7.21,120.0" />
+
+	</scene>
 	
 	<scene name="scene_CD-1" title="CD-1" onstart="" thumburl="panos/CD-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
 		
@@ -460,22 +474,6 @@
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="-15.217" atv="9.706" linkedscene="scene_li-1" linkedscene_lookat="207.51,1.69,120.0" />
 		<hotspot name="spot2" style="skin_hotspotstyle" ath="15.516" atv="9.989" linkedscene="scene_p2-04" linkedscene_lookat="97.24,17.24,120.0" />
 		<hotspot name="spot3" style="skin_hotspotstyle" ath="79.792" atv="37.525" linkedscene="scene_e-4" linkedscene_lookat="108.19,18.08,120.0" />
-
-	</scene>
-
-	<scene name="scene_ENT-1" title="ENT-1" onstart="" thumburl="panos/ENT-1.tiles/thumb.jpg" lat="" lng="" alt="" heading="" soundurl="%CURRENTXML%/audio/MUSICA-BIBLIOTECA.mp3">
-		
-		<control bouncinglimits="calc:image.cube ? true : false" />
-
-		<view hlookat="-184.671" vlookat="-2.948" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
-
-		<preview url="panos/ENT-1.tiles/preview.jpg" />
-
-		<image prealign="0|0.0|0">
-			<cube url="panos/ENT-1.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,768,1664" />
-		</image>
-
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="166.404" atv="14.012" linkedscene="scene_ent-2" linkedscene_lookat="194.58,7.21,120.0" />
 
 	</scene>
 
