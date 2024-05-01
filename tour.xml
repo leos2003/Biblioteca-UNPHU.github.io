@@ -1,4 +1,4 @@
-﻿<krpano version="1.21" title="Virtual Tour">
+﻿<krpano version="1.21" title="Virtual Tour" onstart=loadscene("scene_ENT-1")>
 
 
 	<include url="skin/vtourskin.xml" />
